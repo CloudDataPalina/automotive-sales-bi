@@ -17,7 +17,7 @@ This project delivers executive-level BI dashboards designed to evaluate:
 - Customer sentiment trends  
 
 The solution transforms structured operational datasets into strategic, decision-ready insights for management.  
-The dashboards simulate real-world executive reporting scenarios and performance monitoring environments.
+The dashboards simulate real-world executive reporting environments and strategic performance monitoring scenarios.
 
 Implemented in:
 
@@ -38,7 +38,7 @@ All metrics were calculated within the BI layer using aggregation logic (SUM, AV
 
 ---
 
-# 🔎 Key Business Insights
+## 🔎 Key Business Insights
 
 ### Profit Concentration
 
@@ -70,7 +70,7 @@ All metrics were calculated within the BI layer using aggregation logic (SUM, AV
 
 ---
 
-# 🛠 Quality & Risk Analytics
+## 🛠 Quality & Risk Analytics
 
 ### Recall Concentration
 
@@ -103,7 +103,7 @@ Heatmap-based analysis identified recurring issues in:
 
 ---
 
-# 🛠 Technical Highlights
+## 🛠 Technical Highlights
 
 - KPI architecture design within BI layer  
 - Dual-axis trend modeling (Profit & Quantity)  
@@ -114,13 +114,24 @@ Heatmap-based analysis identified recurring issues in:
 
 ---
 
-# 📂 Project Structure
+## 📂 Project Structure
 ```
 automotive-sales-bi/
-├── data/
-├── cognos/
-├── google_looker/
-└── README.md
+│
+├── data/                         → Structured source datasets for sales, recall, and sentiment analysis
+│   ├── AU_Sales_By_Model.csv  
+│   ├── AU_Car_Recalls.csv  
+│   └── AU_Sentiment.csv              
+│
+├── cognos/                       → Executive dashboards built in IBM Cognos Analytics
+│   ├── Sales_Dashboard.pdf  
+│   └── Service_Dashboard.pdf         
+│
+├── google_looker/                → Cross-platform dashboard replication in Google Looker Studio
+│   ├── Sales_Dashboard.pdf  
+│   └── Service_Dashboard.pdf         
+│
+└── README.md                     → Project documentation and analytical summary
 ```
 ---
 
@@ -132,6 +143,8 @@ This project demonstrates applied BI capability in:
 - Detecting product quality risk clusters  
 - Translating operational data into executive decision support  
 - Delivering consistent, platform-agnostic BI solutions  
+
+Designed to bridge operational data and strategic decision-making. 
 
 ---
 
