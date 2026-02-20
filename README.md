@@ -155,6 +155,8 @@ automotive-sales-bi/
 │   └── looker_service_dashboard.png
 │
 └── README.md                     → Project documentation, business insights, and technical overview
+```
+
 ---
 
 ## 🚀 Business Value
