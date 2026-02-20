@@ -27,7 +27,21 @@ Implemented in:
 The analytical logic was consistently replicated across both platforms to demonstrate tool-agnostic BI architecture.
 
 ---
+## 📷 Dashboard Preview
 
+### 🚘 Sales Performance Dashboard  
+
+High-level executive overview of profitability and sales distribution.
+
+![Sales Dashboard (Looker Studio)](images/looker_sales_dashboard.png)
+
+---
+
+### 🛠 Quality & Risk Dashboard  
+
+Product quality exposure, recall clustering, and sentiment distribution.
+
+![Service Dashboard (Looker Studio)](images/looker_service_dashboard.png)
 ## 📊 Executive KPIs
 
 - **$78.4M Total Profit**
