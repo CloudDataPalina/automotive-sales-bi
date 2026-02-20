@@ -148,8 +148,13 @@ automotive-sales-bi/
 │   ├── Sales_Dashboard.pdf  
 │   └── Service_Dashboard.pdf         
 │
-└── README.md                     → Project documentation and analytical summary
-```
+├── images/                       → Dashboard preview screenshots for README presentation
+│   ├── cognos_sales_dashboard.png
+│   ├── cognos_service_dashboard.png
+│   ├── looker_sales_dashboard.png
+│   └── looker_service_dashboard.png
+│
+└── README.md                     → Project documentation, business insights, and technical overview
 ---
 
 ## 🚀 Business Value
