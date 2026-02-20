@@ -42,6 +42,9 @@ High-level executive overview of profitability and sales distribution.
 Product quality exposure, recall clustering, and sentiment distribution.
 
 ![Service Dashboard (Looker Studio)](images/looker_service_dashboard.png)
+
+---
+
 ## 📊 Executive KPIs
 
 - **$78.4M Total Profit**
