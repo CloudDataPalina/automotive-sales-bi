@@ -19,7 +19,7 @@ This project delivers executive-level BI dashboards designed to evaluate:
 The solution transforms structured operational datasets into strategic, decision-ready insights for management.  
 The dashboards simulate real-world executive reporting and business performance monitoring.
 
-Implemented in:
+Built using:
 
 - IBM Cognos Analytics  
 - Google Looker Studio  
@@ -161,12 +161,12 @@ automotive-sales-bi/
 
 ## 🚀 Business Value
 
-This project demonstrates applied BI capability in:
+This project demonstrates the ability to:
 
-- Identifying structural profit imbalances  
-- Detecting product quality risk clusters  
-- Translating operational data into executive decision support  
-- Delivering consistent, platform-agnostic BI solutions  
+- Identify structural profit imbalances  
+- Detect product quality risk clusters  
+- Translate operational data into executive decision support  
+- Deliver consistent, platform-agnostic BI solutions  
 
 It bridges operational data and executive decision-making.
 
