@@ -17,7 +17,7 @@ This project delivers executive-level BI dashboards designed to evaluate:
 - Customer sentiment trends  
 
 The solution transforms structured operational datasets into strategic, decision-ready insights for management.  
-The dashboards simulate real-world executive reporting environments and strategic performance monitoring scenarios.
+The dashboards simulate real-world executive reporting and business performance monitoring.
 
 Implemented in:
 
@@ -62,7 +62,7 @@ All metrics were calculated within the BI layer using aggregation logic (SUM, AV
 - Revenue is heavily concentrated among a limited group of dealers.
 - A clear performance gap exists between top and underperforming dealers.
 
-**Implication:** Structural imbalance within the dealer network.  
+**Implication:** Profit concentration across a small subset of dealers.  
 **Action:** Dealer benchmarking, KPI normalization, and regional optimization.
 
 ---
@@ -168,7 +168,7 @@ This project demonstrates applied BI capability in:
 - Translating operational data into executive decision support  
 - Delivering consistent, platform-agnostic BI solutions  
 
-Designed to bridge operational data and strategic decision-making. 
+It bridges operational data and executive decision-making.
 
 ---
 
